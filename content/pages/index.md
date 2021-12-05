@@ -7,14 +7,14 @@ sections:
     type: section_content
     image: /images/rezgauche logo copy.png
 seo:
-  title: rez
+  title: rez gauche
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: rez
+      value: rez gauche
       keyName: property
     - name: 'og:description'
       value: The preview of the Vanilla theme
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: rez
+      value: rez gauche
     - name: 'twitter:description'
       value: The preview of the Vanilla theme
     - name: 'twitter:image'
