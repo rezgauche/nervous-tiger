@@ -4,7 +4,7 @@ subtitle: softly we entered another truth
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
-date: '2021-12-05'
+date: false
 seo:
   title: ''
   description: ''
