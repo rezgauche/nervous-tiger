@@ -4,7 +4,7 @@ subtitle: '002'
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: Marivi Gazeta
-date: '2021-10-29'
+date: '2021-11-29'
 seo:
   title: ''
   description: ''
