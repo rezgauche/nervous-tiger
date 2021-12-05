@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: creating a sustainable economy for the artists eco system
 subtitle: lorem-ipsum
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
