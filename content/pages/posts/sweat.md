@@ -36,6 +36,7 @@ tryout
 15h30 - 23h00
 
 **info and inscriptions**
+
 mail@rezgauche.be
 \+32 488 367 723
 
