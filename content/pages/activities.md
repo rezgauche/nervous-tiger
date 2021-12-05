@@ -13,7 +13,7 @@ sections:
     more_link_text: Read more
 seo:
   title: activities
-  description: The preview of the Vanilla theme
+  description: rez gauche activities
   extra:
     - name: 'og:type'
       value: website
@@ -22,7 +22,7 @@ seo:
       value: activities
       keyName: property
     - name: 'og:description'
-      value: The preview of the Vanilla theme
+      value: rez gauche activities
       keyName: property
     - name: 'og:image'
       value: images/vanilla-preview.png
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:title'
       value: activities
     - name: 'twitter:description'
-      value: The preview of the Vanilla theme
+      value: rez gauche activities
     - name: 'twitter:image'
       value: images/vanilla-preview.png
       relativeUrl: true
