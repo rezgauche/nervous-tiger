@@ -4,7 +4,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    image: /images/rezgauche logo copy.png
+    image: /images/rgb-logo.png
     image_alt: test
   - title: logo
     section_id: posts
