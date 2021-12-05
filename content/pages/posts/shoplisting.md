@@ -11,7 +11,6 @@ seo:
   robots: []
   extra: []
 layout: post
-content_img_path: /images/shoplisting-thing-01.jpg
 ---
 *rezgauche.be* proposes a situation where artists can present their work and benefit from donations made through the opencollective.
 
