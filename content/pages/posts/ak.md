@@ -14,4 +14,6 @@ layout: post
 ---
 
 
-Abraham Kelly nft collection: <https://opensea.io/collection/abraham-kelly>![](https://arweave.net//s/abrahamkelly.mintbase1.near)
+
+
+Abraham Kelly nft collection: <https://opensea.io/collection/abraham-kelly>![](https://arweave.net/-sVBA-3uQnnW0Eyv\_3MaGexj3nwQrXPD0srysr5LESo)
