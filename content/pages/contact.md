@@ -1,7 +1,7 @@
 ---
 title: contact
 sections:
-  - section_id: lorem-ipsum
+  - section_id: contact
     subtitle: >
       *contact*
 
