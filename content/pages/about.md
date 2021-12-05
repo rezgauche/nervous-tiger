@@ -162,7 +162,7 @@ sections:
 
           *   develop next roadmap
 
-      ![](/images/rgb-logo.png)
+      ![](/images/rezgauche%20logo%20copy.png)
 
     image_alt: lorem-ipsum
     type: section_hero
