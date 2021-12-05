@@ -24,7 +24,7 @@ sections:
     type: section_hero
   - section_id: lorem-ipsum
     subtitle: >
-      2019\<!---->\<!---->\<!---->\<!---->\<!---->\<!---->\<!---->
+      ### 2019
 
 
       *   11
