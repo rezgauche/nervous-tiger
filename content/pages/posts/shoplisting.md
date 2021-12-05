@@ -1,7 +1,7 @@
 ---
 title: shoplisting
 subtitle: developing an economy of solidarity
-content_img_alt: lorem-ipsum
+content_img_alt: developing an economy of solidarity
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2022-01-15'
