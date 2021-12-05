@@ -3,7 +3,7 @@ title: sweat
 subtitle: softly we entered another truth
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
-excerpt: rethinking work through practice
+excerpt: an experimental practice of a life beyond capitalist consumer culture
 date: '2021-12-14'
 seo:
   title: ''
