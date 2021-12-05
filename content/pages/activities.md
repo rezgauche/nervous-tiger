@@ -10,7 +10,7 @@ sections:
     section_id: news
     type: section_posts
     has_more_link: true
-    more_link_text: Read more
+    more_link_text: read more
 seo:
   title: activities
   description: rez gauche activities
