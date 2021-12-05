@@ -4,7 +4,7 @@ subtitle: developing an economy of solidarity
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
-date: '2022-01-05'
+date: '2022-01-15'
 seo:
   title: ''
   description: ''
