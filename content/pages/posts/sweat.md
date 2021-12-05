@@ -34,6 +34,7 @@ tryout
 
 14, 15 & 16 December
 
+
 **info and inscriptions**
 mail@rezgauche.be
 \+32 488 367 723
