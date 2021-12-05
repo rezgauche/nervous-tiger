@@ -1,15 +1,6 @@
 ---
 title: participate
 sections:
-  - title: opencollective
-    section_id: opencollective
-    subtitle: |
-      *make it possible to realise our roadmap and activities*
-
-      [*opencollective.com/rezgauche*](https://opencollective.com/rezgauche)
-    image_alt: logo-oc
-    type: section_hero
-    image: /images/rg-logo-oc.png
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -46,6 +37,15 @@ sections:
       non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
       dui. Integer vel convallis justo.
     type: section_content
+  - title: opencollective
+    section_id: opencollective
+    subtitle: |
+      *make it possible to realise our roadmap and activities*
+
+      [*opencollective.com/rezgauche*](https://opencollective.com/rezgauche)
+    image_alt: logo-oc
+    type: section_hero
+    image: /images/rg-logo-oc.png
   - title: astrodao
     section_id: dao
     subtitle: >
