@@ -40,5 +40,3 @@ tryout
 mail@rezgauche.be
 
 +32 488 367 723
-
-##### &#xA;
