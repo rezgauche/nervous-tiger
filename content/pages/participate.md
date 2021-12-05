@@ -42,6 +42,7 @@ sections:
     subtitle: |
       join our economy of solidarity [read more](/posts/shoplisting)
     image_alt: lorem-ipsum
+    image: 
     type: section_hero
     title: shoplisting
 seo:
