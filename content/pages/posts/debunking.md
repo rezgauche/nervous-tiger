@@ -4,7 +4,7 @@ subtitle: apass workshop participants
 content_img_alt: logo
 thumb_img_alt: logo
 excerpt: "collective writing by workshop participants of\_Debunking The Myth at advanced performance and scenography studies"
-date: '2021-12-04'
+date: '2020-11-04'
 seo:
   title: ''
   description: ''
