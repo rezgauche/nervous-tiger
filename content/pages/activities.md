@@ -25,7 +25,7 @@ seo:
       value: rez gauche activities
       keyName: property
     - name: 'og:image'
-      value: images/vanilla-preview.png
+      value: images/rgb-logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: rez gauche activities
     - name: 'twitter:image'
-      value: images/vanilla-preview.png
+      value: images/rgb-logo.png
       relativeUrl: true
 layout: advanced
 ---
