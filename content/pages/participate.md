@@ -10,29 +10,6 @@ sections:
     image_alt: logo-oc
     type: section_hero
     image: /images/rg-logo-oc.png
-  - title: astrodao
-    section_id: dao
-    subtitle: >
-      join our decentralised autonomous organisation and *vote on what you want
-      to happen.*
-
-
-      [*rezgauche.sputnik-dao.near*](https://app.astrodao.com/dao/rezgauche.sputnik-dao.near)
-    image_alt: dao
-    type: section_hero
-    image: /images/rg-dao.png
-  - title: a.i.r
-    section_id: air
-    subtitle: >
-      [*apply for a residency*](/air)
-
-
-      ###### With our current funds, it will still cost you 167 euro per week to
-      be in residence at our workspace. &#xA;accommodation is not yet
-      included.*&#xA;*
-    image_alt: lorem-ipsum
-    type: section_hero
-    image: /images/rezgauche logo copy.png
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -69,6 +46,29 @@ sections:
       non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
       dui. Integer vel convallis justo.
     type: section_content
+  - title: astrodao
+    section_id: dao
+    subtitle: >
+      join our decentralised autonomous organisation and *vote on what you want
+      to happen.*
+
+
+      [*rezgauche.sputnik-dao.near*](https://app.astrodao.com/dao/rezgauche.sputnik-dao.near)
+    image_alt: dao
+    type: section_hero
+    image: /images/rg-dao.png
+  - title: a.i.r
+    section_id: air
+    subtitle: >
+      [*apply for a residency*](/air)
+
+
+      ###### With our current funds, it will still cost you 167 euro per week to
+      be in residence at our workspace. &#xA;accommodation is not yet
+      included.*&#xA;*
+    image_alt: lorem-ipsum
+    type: section_hero
+    image: /images/rezgauche logo copy.png
 seo:
   title: ''
   description: ''
