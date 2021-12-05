@@ -4,7 +4,7 @@ subtitle: i want to drool on you
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
-date: '2021-09-05'
+date: '2021-09-04'
 seo:
   title: ''
   description: ''
