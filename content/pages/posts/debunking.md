@@ -143,7 +143,7 @@ project site: [transdisciplinary.art](https://www.transdisciplinary.art/)[]()[]
 
 *   How do you perceive the surroundings along the route then? - Will you start moving differently, without having changed your ‘way’?
 
-*   Is this possible without fear/danger?...no lo dejes apagar.###
+*   Is this possible without fear/danger?...no lo dejes apagar.
 
 ##### INTIMATE VERSUS PERSONAL
 ## DEBUNKING THE MYTH #10
