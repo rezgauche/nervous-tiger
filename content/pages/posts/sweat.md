@@ -32,6 +32,8 @@ tryout
 9 and 10 November
 14h00 - 18h00
 
+
+
 **info and inscriptions**
 mail@rezgauche.be
 \+32 488 367 723
