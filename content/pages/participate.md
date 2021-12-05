@@ -37,12 +37,12 @@ sections:
       included.*&#xA;*
     image_alt: lorem-ipsum
     type: section_hero
-    image: /images/rezgauche logo copy.png
+    image: /images/rg3.jpg
   - section_id: shoplisting
     subtitle: |
       join our economy of solidarity [read more](/posts/shoplisting)
     image_alt: thing01
-    image: https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA
+    image: 'https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA'
     type: section_hero
     title: shoplisting
 seo:
