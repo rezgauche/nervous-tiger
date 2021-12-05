@@ -1,7 +1,7 @@
 {
     "title": "rez gauche",
     "path_prefix": "/",
-    "favicon": "/images/rezgauche fav.png",
+    "favicon": "/images/fav.png",
     "header": {
         "has_nav": true,
         "nav_links": [
