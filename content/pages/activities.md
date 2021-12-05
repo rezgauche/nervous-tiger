@@ -5,7 +5,7 @@ sections:
     section_id: intro
     type: section_content
     image: /images/rgb-logo.png
-    image_alt: test
+    image_alt: logo
   - title: logo
     section_id: posts
     type: section_posts
