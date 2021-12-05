@@ -12,10 +12,16 @@ seo:
   extra: []
 layout: post
 ---
-*A.R.* is an open space for engaging with the research process of the participants. 
+*A.R.* is an open space for engaging with the research process of the participants.
 
-It shapes itself along the artistic research proposals by the artists present. 
+It shapes itself along the artistic research proposals by the artists present.
 
 The participants can share research with each other, reflect on each others work, but can also just work by themselves. 
 
 *Art Research* can be open to the public and guests can be invited, whenever the researchers want to include this in their process.
+
+
+
+##### Dates & times
+
+*   22 January from 18h
