@@ -1,11 +1,6 @@
 ---
 title: activities
 sections:
-  - title: Text
-    section_id: intro
-    type: section_content
-    image: /images/rgb-logo.png
-    image_alt: logo
   - title: news
     section_id: news
     type: section_posts
