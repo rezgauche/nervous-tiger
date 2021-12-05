@@ -1,6 +1,6 @@
 ---
 title: ak
-subtitle: lorem-ipsum
+subtitle: abraham kelly exposition
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
