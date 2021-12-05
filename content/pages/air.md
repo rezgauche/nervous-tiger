@@ -24,7 +24,7 @@ sections:
     image_alt: lorem-ipsum
     content: "Artistic autonomy of persons in residence and artist’s care for the workspace: before, during and after their residency - are considered important.\n\nThe decisions for selection of a residency are made by the stakeholders of\_rezgauche.be\_by [*voting on the proposals in our dao*](https://app.astrodao.com/dao/rezgauche.sputnik-dao.near)\n"
     type: section_content
-    image: /images/rg ws3.jpg
+    image: /images/rg3.jpg
 seo:
   title: ''
   description: ''
