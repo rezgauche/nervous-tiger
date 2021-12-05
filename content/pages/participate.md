@@ -15,17 +15,6 @@ sections:
     image_alt: logo-oc
     type: section_hero
     image: /images/rg-logo-oc.png
-  - title: astrodao
-    section_id: dao
-    subtitle: >
-      join our decentralised autonomous organisation and *vote on what you want
-      to happen.*
-
-
-      [*rezgauche.sputnik-dao.near*](https://app.astrodao.com/dao/rezgauche.sputnik-dao.near)
-    image_alt: dao
-    type: section_hero
-    image: /images/rg-dao.png
   - title: a.i.r
     section_id: air
     subtitle: >
@@ -38,6 +27,17 @@ sections:
     image_alt: lorem-ipsum
     type: section_hero
     image: /images/rg3.jpg
+  - title: astrodao
+    section_id: dao
+    subtitle: >
+      join our decentralised autonomous organisation and *vote on what you want
+      to happen.*
+
+
+      [*rezgauche.sputnik-dao.near*](https://app.astrodao.com/dao/rezgauche.sputnik-dao.near)
+    image_alt: dao
+    type: section_hero
+    image: /images/rg-dao.png
   - section_id: shoplisting
     subtitle: |
       join our economy of solidarity [*read more*](/posts/shoplisting)
