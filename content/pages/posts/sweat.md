@@ -12,12 +12,28 @@ seo:
   extra: []
 layout: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+*Softly We Entered Another Truth* is rethinking work through practice. It wants to put into question the value of the body: its products, services and experiences.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+*S.W.E.A.T*. asks: What is performance when placed in a context of a non-essential, an insubstantial form of art? How can performance art extend beyond a notion of labour time, or beyond valorisation of excessive (re)actions?
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*Rez gauche* invites you - artists, researchers, makers, performers, etc - to experiment with our research process in an informal, professional, post-work society. Frequency and format of presentation is following the artistic process. Resources, benefits, risks and responsibilities are shared.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*Softly We Entered Another Truth* functions as an experimental practice of a life beyond capitalist consumer culture and engages participants through displacement into artistic practice, love and care.
+
+
+##### dates, times 2021
+
+19 until 22 July 
+tryout
+
+6 and 7 October
+14h00 - 18h00
+
+9 and 10 November
+14h00 - 18h00
+
+**info and inscriptions**
+mail@rezgauche.be
+\+32 488 367 723
+
+##### &#xA;
