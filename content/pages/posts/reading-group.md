@@ -1,6 +1,6 @@
 ---
 title: reading group
-subtitle: lorem-ipsum
+subtitle: online/in person
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
