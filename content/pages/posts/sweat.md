@@ -32,7 +32,7 @@ tryout
 9 and 10 November
 14h00 - 18h00
 
-
+14
 
 **info and inscriptions**
 mail@rezgauche.be
