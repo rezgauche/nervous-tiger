@@ -38,7 +38,7 @@ sections:
     image_alt: lorem-ipsum
     type: section_hero
     image: /images/rezgauche logo copy.png
-  - section_id: mintbase
+  - section_id: shoplisting
     subtitle: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
