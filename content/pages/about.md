@@ -23,38 +23,158 @@ sections:
     image_alt: lorem-ipsum
     type: section_hero
   - section_id: lorem-ipsum
-    subtitle: >-
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
-              
-      > Vestibulum ullamcorper risus auctor eleifend consequat.
+    subtitle: >
+      2019\<!---->\<!---->\<!---->\<!---->\<!---->\<!---->\<!---->
 
 
-      ![Placeholder
-      Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+      *   11
+          initial idea and desire for this experiment. *read article*
+
+      <!---->
 
 
-      In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl
-      elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam
-      malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis.
-      Vestibulum quis elit magna. Vestibulum accumsan blandit consequat.
-      Phasellus quis posuere quam.
+      *   12
+          proposal for creating a sustainable economy for artist ecosystem. *read article*
+
+      ### 2021
 
 
-      Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-      ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo
-      euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat
-      et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque
-      lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat
-      efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis
-      ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus
-      ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris,
-      viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus,
-      vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna
-      non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
-      dui. Integer vel convallis justo.
+      *   1 - 4
+
+          *   build and launch website version 1.0
+
+          *   prepare AK exposition
+
+          *   prepare Motion workshop
+
+      <!---->
+
+
+      *   5 - 7
+
+          *   AK exposition
+
+          *   Motion [*workshop*](https://www.youtube.com/watch?v=XJnV41LQ7\_w)
+
+          *   Launch *open call*
+
+      <!---->
+
+
+      *   8 - 9
+
+          *   MotionDAO *research*
+
+      <!---->
+
+
+      *   10 - 11
+
+          *   initiate seed funding round 1: founders
+
+          *   build website version 2.0
+
+          *   test case smart contract A.i.R
+
+      <!---->
+
+
+      *   12
+
+          *   launch website 2.0
+
+          *   cooperative stakeholders business plan A.i.R
+
+          *   contact partners
+
+      ### 2022
+
+
+      *   1 - 6
+
+          *   apply for/gather funds for starting phase
+
+          *   residencies, activities and events
+
+          *   beta phase smart contract
+
+      <!---->
+
+
+      *   7 - 8
+
+          *   compile year planning 2023
+
+          *   develop website version 3.0
+
+      <!---->
+
+
+      *   9 - 12
+
+          *   seed funding round 2: investors
+
+          *   residencies, activities and events
+
+          *   apply for funding development phase
+
+      ### 2023
+
+
+      *   1 - 2
+
+          *   extend into global networks
+
+          *   define public foundation (art, disparity, ecology)
+
+      *   2 - 6
+
+          *   residencies, activities and events
+
+          *   apply for EU funding Employment, A.i.R. and Activities
+
+          *   develop economy of solidarity
+
+      *   7 - 8
+
+          *   compile year planning 2024
+
+          *   apply for funding economy of solidarity
+
+          *   develop public foundation
+
+      *   9 - 12
+
+          *   launch website 3.0
+
+          *   alpha phase smart contract
+
+          *   residencies, activities and events
+
+          *   seed funding round 3: economy of solidarity
+
+          *   strategic real estate & ecological development
+
+      ### 2024
+
+
+      *   1 - 6
+
+          *   launch public foundation
+
+          *   residencies, activities and events
+
+      *   7 - 8
+
+          *   evaluation of 2020-2024 four year plan
+
+          *   compile year planning 2025
+
+      *   9 - 12
+
+          *   develop next roadmap
+
+      ![](https://preview--interesting-sage-bd909.stackbit.dev/images/rg-logo.png)
     image_alt: lorem-ipsum
     type: section_hero
 seo:
