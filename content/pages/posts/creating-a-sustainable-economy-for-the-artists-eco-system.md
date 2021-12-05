@@ -12,12 +12,46 @@ seo:
   extra: []
 layout: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+## Introduction&#xA;
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+### what?
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Research on tokenisation, decentralised autonomous organisation, decentralised finance, non-fungible tokens (art piece certification).
+Research and development of a public foundation and/or a cooperative. definition of what and what not.
+legal definition, gathering resources, startup and roadmap (2-5 year plan).
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+with:
+– Jeanne Bloch to connect to her research on how to monetise movement, use biometric data as a generator of value.
+– Marlon Barrios Solano to build the dao, work with the Motion currency and connect to the dance-tech.net /movimiento.org communities. <http://www.dance-tech.net/page/motion-dao>
+
+### why?
+
+My personal interest is in how a workspace, a place (splace) can be a space that allows persons access through responsibility. I noticed artwork is being digitised for tracking sales on a blockchain, art markets and virtual spaces are existing. My interest is rather to apply the use of Smart-contracts on Ethereum network to a physical space.
+To keep an open mind towards different ideologies, their respective dogma’s and taboos, to experiment with creation of value, to think beyond neo-liberal paradigms, to explore and redefine the ethical spectrum of speculative practices.
+
+To research and develop new business models that **are different from**
+
+*   curated spaces
+
+*    commercial spaces [https://platformdesigntoolkit.com](https://platformdesigntoolkit.com/)
+
+*   subsidised spaces that close when funding ends: frascati, etc
+
+*   squats, temporary occupations where artists are exploited for gentrification
+
+### how?
+
+Work with fellow artistic researchers that see their profession as an extension to the personal.
+Not that the work never ends and that there is no leisure time, but rather that the personal interests and meaningful activities find their expression in the workspace and practice.
+Develop a local network – *rezgauche* – of individuals, connect to existing networks (reshape, token engineering, etc) and formulate an investment window for firms and governments.
+Establish spaces – *rezgauche* – that adopt and adjust the business model to fit their particular needs and specificities – encourage solidarity between partners.
+To bring value in from financial sector towards practices that benefit the artistic sector.
+To reconsider forms of consumption and establish alternative forms of property regimes.
+Decoupling time versus value based production, engaging in durable and trans-generational forms of resource management.
+How automation, artificial intelligence, robotics, bio-engineering, etc. can be at the service of the human?
+What does the human need from technological progress, to provide for care and an abundant qualitative life?
+If there is no more work, what does art become to a human culture?
+
+## Project Proposal
+
+Read the complete proposal here (IPFS loads a little slow at times): [https://ipfs.io/ipfs/QmZVCGZdWYkhWFRP3arzBnc1r6JgFRrZPNgti3XYL8VamJ/Creating a Sustainable Economy for the Artists Ecosystem.pdf](https://ipfs.io/ipfs/QmZVCGZdWYkhWFRP3arzBnc1r6JgFRrZPNgti3XYL8VamJ/Creating%20a%20Sustainable%20Economy%20for%20the%20Artists%20Ecosystem.pdf)
