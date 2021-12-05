@@ -1,10 +1,6 @@
 ---
 title: participate
 sections:
-  - section_id: participate-logo
-    image_alt: logo
-    type: section_content
-    image: /images/rezgauche logo copy.png
   - title: opencollective
     section_id: opencollective
     subtitle: |
