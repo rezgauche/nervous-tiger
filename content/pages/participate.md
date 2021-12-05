@@ -40,7 +40,7 @@ sections:
     image: /images/rezgauche logo copy.png
   - section_id: shoplisting
     subtitle: |
-      join our economy of solidarity [read more](/shoplisting)
+      join our economy of solidarity [read more](/posts/shoplisting)
     image_alt: lorem-ipsum
     type: section_hero
     title: shoplisting
