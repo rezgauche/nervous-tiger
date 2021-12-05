@@ -22,6 +22,10 @@ During the group’s meetings the prepared texts and literature are discussed al
 
 As a permeable collective body, *a reading group* believes in openness and shared sense of responsibility. In times of a global pandemic, it has not only become relevant to sustain critical structures in other ways and intensities, it is even more pertinent to—within the given situations—find moments for collective exchange, acts of care, pleasure and a sense of proximity and kinship.
 
+![](/images/readinggroup%20\(2\).jpg)
+
+
+
 *a reading group* proposes to read 1 text (maximum 30 pages) meeting Thursday at 8 pm.
 
 On October 7th we will be discussing "PARANOID READING AND REPARATIVE READING,. OR, YOU'RE SO PARANOID, YOU PROBABLY THINK. THIS ESSAY IS ABOUT YOU." by Eve Kosofsky Sedgwick.
