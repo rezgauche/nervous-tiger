@@ -1,7 +1,7 @@
 ---
 title: participate
 sections:
-  - title: lorem-ipsum
+  - title: participate
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     type: section_content
