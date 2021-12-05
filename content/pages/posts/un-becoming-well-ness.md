@@ -3,7 +3,7 @@ title: un-becoming well-ness
 subtitle: i want to drool on you
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
-excerpt: exposition
+excerpt: Zachary Schoenhut exposition
 date: '2021-09-04'
 seo:
   title: ''
