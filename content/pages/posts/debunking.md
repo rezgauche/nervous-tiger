@@ -12,14 +12,28 @@ seo:
   extra: []
 layout: post
 ---
-![Placeholder Image](https://arweave.net/zauC5kVoyKPmNht98futZBhHroTSq0eG_ucsYv9RX0M)
+## DEBUNKING THE MYTH
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+*   ### [THE BUNK BEDS WHERE CATHOLIC GUILT AND NEO-LIBERAL ECONOMIC ASSUMPTIONS ARE SNORING](https://rezgauche.be/debunking/page-01/)
 
+*   ### [HOW TO DIE IN A GOOD / WAY](https://rezgauche.be/debunking/page-02/)
 
+*   ### [Many teachers in the world are teaching at the same time](https://rezgauche.be/debunking/page-03)
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   ### [NON-DUAL (IN) DIFFERENCE](https://rezgauche.be/debunking/page-04)
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   ### [COOPERATIVE](https://rezgauche.be/debunking/page-05)
+
+*   ### [Where is the opening for love inside this work?](https://rezgauche.be/debunking/page-06/)
+
+*   ### [HOW TO DIE IN A GOOD WAY? (HOW TO LIVE IN A GOOD WAY)](https://rezgauche.be/debunking/page-07)
+
+*   ### [Sorry for rambling](https://rezgauche.be/debunking/page-08/)
+
+*   ### [*Alienation from self?, heritage, belonging and connection*](https://rezgauche.be/debunking/page-09/)
+
+*   ### [INTIMATE VERSUS PERSONAL](https://rezgauche.be/debunking/page-10)
+
+*   ### [V ersus: from a medieval Latin use of Latin versus ‘towards’\ I ntimate: from late Latin intimatus, past participle of Latin intimare ‘impress, make familiar’\ P ersonal: from Latin persona ‘actor's mask, character in a play’](https://rezgauche.be/debunking/page-11/)
+
+collective writing by workshop participants of [Debunking The Myth at advanced performance and scenography studies](https://apass.be/debunking-the-myth/)[, Brussels, November 2020]()
