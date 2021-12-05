@@ -18,13 +18,18 @@ This series of works examines the desire and need to fill an absence. Working wi
 
 The video work, "i want to drool on you" looks into the impossibilities of intimacies and considers audio-visual work as a form of contagion, smearing the ears and eyes with the goo of another.
 
+
+
+![](/images/unbecoming-wellness%20\(1\).jpg)
+
+
+
 **Opening Friday 10th of September from 5PM**
 
 Performances:
 7 PM : 'a night on the allegro' by Francesca Hawker
 
 8 PM: TBD by Anastasia McCammon
-
 
 Exposition from 11th - 24th September.
 Visits on appointment
