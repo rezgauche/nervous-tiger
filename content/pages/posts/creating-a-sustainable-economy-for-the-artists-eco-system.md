@@ -4,7 +4,7 @@ subtitle: 'Marlon Solano, Jeanne Bloch, Stef Meul'
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: web3 research
-date: '2020-12-05'
+date: '2020-12-03'
 seo:
   title: ''
   description: ''
