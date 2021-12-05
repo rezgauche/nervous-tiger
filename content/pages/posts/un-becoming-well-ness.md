@@ -10,6 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
+subtitle: i want to drool on you
 ---
 rez gauche presents this small solo show of sculptures and one video by Zachary Schoenhut with performances by Anastasia Mccammon and Francesca Hawker for the opening night.
 
