@@ -73,7 +73,7 @@ sections:
       dui. Integer vel convallis justo.
     image_alt: lorem-ipsum
     type: section_hero
-    title: shoplist
+    title: shoplisting
 seo:
   title: ''
   description: ''
