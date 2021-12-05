@@ -3,7 +3,7 @@ title: performance evening
 subtitle: '002'
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
-excerpt: '001'
+excerpt: Marivi Gazeta
 date: '2021-10-29'
 seo:
   title: ''
