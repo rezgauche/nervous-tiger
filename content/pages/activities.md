@@ -12,14 +12,14 @@ sections:
     has_more_link: true
     more_link_text: Read more
 seo:
-  title: Stackbit Vanilla Theme
+  title: activities
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Vanilla Theme
+      value: activities
       keyName: property
     - name: 'og:description'
       value: The preview of the Vanilla theme
@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Vanilla Theme
+      value: activities
     - name: 'twitter:description'
       value: The preview of the Vanilla theme
     - name: 'twitter:image'
