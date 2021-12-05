@@ -8,7 +8,7 @@ sections:
     image: /images/rezgauche logo copy.png
 seo:
   title: rez gauche
-  description: The preview of the Vanilla theme
+  description: artworks and more
   extra:
     - name: 'og:type'
       value: website
@@ -17,7 +17,7 @@ seo:
       value: rez gauche
       keyName: property
     - name: 'og:description'
-      value: The preview of the Vanilla theme
+      value: artworks and more
       keyName: property
     - name: 'og:image'
       value: images/vanilla-preview.png
@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: rez gauche
     - name: 'twitter:description'
-      value: The preview of the Vanilla theme
+      value: artworks and more
     - name: 'twitter:image'
       value: images/vanilla-preview.png
       relativeUrl: true
