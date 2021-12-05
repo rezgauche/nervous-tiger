@@ -12,12 +12,22 @@ seo:
   extra: []
 layout: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+On October 7th 2021, Rez Gauche will host *a reading group* in a new hybrid online/in-person format.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+*a reading group* is a self-sustained, collectively run and porous educational structure. The participants feed the group and the group feeds the participants.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Initially gathering online, *a reading group* formed of already familiar faces, new invitees and tangential relations has been meeting weekly since April 2020 for critical discourse against the backdrop of the unfolding global pandemic. With a flexible communal structural that supports the shifting attendance of individual participants, the active and intentional concern for the nuances of how to study together has remained a defining element of the group. As the year and the pandemic progressed, so too did the need to come together and engage in critically rigorous and precise shared study.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+During the group’s meetings the prepared texts and literature are discussed alongside conversation about the lives, feelings and structural conditions of the participants as we feel our way through a present humming with urgencies. Viewed in retrospect, the group’s reading list represents the wake of our shared desires, interests and commitments, influenced by the shifting political tides in and of the own lives of those present.
+
+As a permeable collective body, *a reading group* believes in openness and shared sense of responsibility. In times of a global pandemic, it has not only become relevant to sustain critical structures in other ways and intensities, it is even more pertinent to—within the given situations—find moments for collective exchange, acts of care, pleasure and a sense of proximity and kinship.
+
+*a reading group* proposes to read 1 text (maximum 30 pages) meeting Thursday at 8 pm.
+
+On October 7th we will be discussing "PARANOID READING AND REPARATIVE READING,. OR, YOU'RE SO PARANOID, YOU PROBABLY THINK. THIS ESSAY IS ABOUT YOU." by Eve Kosofsky Sedgwick.
+
+A link is provided below where you can download the reading.
+
+We hope to see you there!
+
+https://www.bu.edu/honoringeve/files/2009/09/paranoid-reading-and-reparative-reading.pdf
