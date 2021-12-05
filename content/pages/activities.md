@@ -7,7 +7,7 @@ sections:
     image: /images/rgb-logo.png
     image_alt: logo
   - title: news
-    section_id: posts
+    section_id: news
     type: section_posts
     has_more_link: true
     more_link_text: Read more
