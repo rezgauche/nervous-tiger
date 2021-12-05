@@ -4,7 +4,7 @@ subtitle: chew the rag
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: sewing circle
-date: '2021-12-05'
+date: '2021-11-05'
 seo:
   title: ''
   description: ''
