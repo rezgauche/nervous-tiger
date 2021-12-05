@@ -23,21 +23,18 @@ sections:
     image_alt: lorem-ipsum
     type: section_hero
   - section_id: lorem-ipsum
-    subtitle: >
+    subtitle: |+
       ### 2019
-
 
       *   11
           initial idea and desire for this experiment. *read article*
 
       <!---->
 
-
       *   12
           proposal for creating a sustainable economy for artist ecosystem. *read article*
 
       ### 2021
-
 
       *   1 - 4
 
@@ -49,7 +46,6 @@ sections:
 
       <!---->
 
-
       *   5 - 7
 
           *   AK exposition
@@ -60,13 +56,11 @@ sections:
 
       <!---->
 
-
       *   8 - 9
 
           *   MotionDAO *research*
 
       <!---->
-
 
       *   10 - 11
 
@@ -78,7 +72,6 @@ sections:
 
       <!---->
 
-
       *   12
 
           *   launch website 2.0
@@ -88,7 +81,6 @@ sections:
           *   contact partners
 
       ### 2022
-
 
       *   1 - 6
 
@@ -100,7 +92,6 @@ sections:
 
       <!---->
 
-
       *   7 - 8
 
           *   compile year planning 2023
@@ -108,7 +99,6 @@ sections:
           *   develop website version 3.0
 
       <!---->
-
 
       *   9 - 12
 
@@ -119,7 +109,6 @@ sections:
           *   apply for funding development phase
 
       ### 2023
-
 
       *   1 - 2
 
@@ -157,7 +146,6 @@ sections:
 
       ### 2024
 
-
       *   1 - 6
 
           *   launch public foundation
@@ -174,7 +162,8 @@ sections:
 
           *   develop next roadmap
 
-      ![](https://preview--interesting-sage-bd909.stackbit.dev/images/rg-logo.png)
+      ![](/images/rgb-logo.png)
+
     image_alt: lorem-ipsum
     type: section_hero
 seo:
