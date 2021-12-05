@@ -4,7 +4,7 @@ subtitle: '001'
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
-date: '2021-10-05'
+date: '2021-10-29'
 seo:
   title: ''
   description: ''
