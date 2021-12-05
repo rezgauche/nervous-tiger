@@ -9,7 +9,7 @@ sections:
   - title: news
     section_id: news
     type: section_posts
-    has_more_link: true
+    has_more_link: false
     more_link_text: read more
 seo:
   title: activities
