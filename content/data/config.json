@@ -1,0 +1,60 @@
+{
+    "title": "rez gauche",
+    "path_prefix": "/",
+    "favicon": "/images/rezgauche fav.png",
+    "header": {
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "about",
+                "url": "/about",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "activities",
+                "url": "/activities",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "participate",
+                "url": "/participate",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "contact",
+                "url": "/contact"
+            }
+        ]
+    },
+    "footer": {
+        "content": "<a href=\"https://rezgauche.be/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">rez gauche</a>",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "instagram",
+                "url": "https://www.instagram.com/rezgauche",
+                "new_window": true
+            },
+            {
+                "label": "facebook",
+                "url": "https://facebook.com/rezgauche",
+                "new_window": true
+            },
+            {
+                "label": "newsletter",
+                "url": "https://mailchi.mp/ae27c8d28edf/newsletter",
+                "new_window": false
+            },
+            {
+                "label": "meetup",
+                "url": "https://www.meetup.com/members/206631133/",
+                "new_window": true,
+                "no_follow": false
+            }
+        ]
+    },
+    "domain": "https://interesting-sage-bd909.netlify.app"
+}
