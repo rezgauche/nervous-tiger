@@ -9,7 +9,7 @@ sections:
     image_alt: lorem-ipsum
     type: section_hero
   - section_id: lorem-ipsum
-    subtitle: "*Softly We Entered Another Truth*\_functions as an experimental practice of a life beyond capitalist consumer culture and engages participants through displacement into artistic practice, love and care. [*read more*](/posts/sweat)\n\n*   *Art Research*\_is an open space for engaging with the research process of the participants. It shapes itself along the artistic research proposals by the artists present. [*read more*](/posts/art-research)\n"
+    subtitle: "*Softly We Entered Another Truth*\_functions as an experimental practice of a life beyond capitalist consumer culture and engages participants through displacement into artistic practice, love and care. [*read more*](/posts/sweat)\n\n*Art Research*\_is an open space for engaging with the research process of the participants. It shapes itself along the artistic research proposals by the artists present. [*read more*](/posts/art-research)\n"
     image_alt: lorem-ipsum
     type: section_hero
   - title: atelier
