@@ -3,7 +3,7 @@ title: art research
 subtitle: open space for artistic research
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
-excerpt: an open space for engaging with the research process of the participants.
+excerpt: an open space for engaging with the research process of the participants
 date: '2022-01-22'
 seo:
   title: ''
