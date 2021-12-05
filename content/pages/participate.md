@@ -2,7 +2,7 @@
 title: participate
 sections:
   - title: participate
-    section_id: lorem-ipsum
+    section_id: participate
     image_alt: lorem-ipsum
     type: section_content
   - title: opencollective
