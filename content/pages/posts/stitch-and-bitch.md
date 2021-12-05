@@ -12,12 +12,12 @@ seo:
   extra: []
 layout: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+This past year during the pandemic, governance over bodies became a common and non-negotiable presence. Conversations surrounding dysfunctional state-governance, structural racism, and global wealth disparities became common, irrespective of class, sexuality, race, or gender expression. Giorgio Agamben speaks of the “whatever singularity” that occurs when a community of varying peoples, with no conditions of belonging, come together to be such that always matter.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Inspired by Agamben’s notion of the ‘coming community’ , *stitch and bitch* takes as its main methodology the sewing circle. Sewing circles have served as a place where people have come together to plan, self-organize, share knowledges, gossips, warnings etc. throughout time and space. In particular, during the Antebellum South in the US, sewing circles formed as resistance to slavery and at other points in US history, sewing circles were charitable endeavors, repurposing fabrics to make blankets and clothes. Ironically, the term ‘sewing circle’ was a coded word that was both slang for and protected the underground network of LGBTQ actors and actresses in Hollywood during its Golden Age.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Rez Gauche will host *stitch and bitch* on a Sunday for anyone who would like to come by and sew. This is an open invitation to join in non-hierarchical organizational structure with the potential for horizontal sharing, a place where texts, thoughts, videos, or ideas can be exchanged as well as fabrics, bits of clothing, etc. Participants can bring their own projects or can just show up and hang and see if they feel inspired. They can come to mend clothing, to make a pillowcase out of a t-shirt. Or simply to sew or knit amongst others. Snacks will be provided!
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+
+
+![](/images/stitch-and-bitch%20\(1\).jpg)
