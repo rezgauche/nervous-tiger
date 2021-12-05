@@ -16,7 +16,7 @@ layout: post
 
 *S.W.E.A.T*. asks: What is performance when placed in a context of a non-essential, an insubstantial form of art? How can performance art extend beyond a notion of labour time, or beyond valorisation of excessive (re)actions?
 
-*Rez gauche* invites you - artists, researchers, makers, performers, etc - to experiment with our research process in an informal, professional, post-work society. Frequency and format of presentation is following the artistic process. Resources, benefits, risks and responsibilities are shared.
+*rez gauche* invites you - artists, researchers, makers, performers, etc - to experiment with our research process in an informal, professional, post-work society. Frequency and format of presentation is following the artistic process. Resources, benefits, risks and responsibilities are shared.
 
 *Softly We Entered Another Truth* functions as an experimental practice of a life beyond capitalist consumer culture and engages participants through displacement into artistic practice, love and care.
 
