@@ -3,7 +3,7 @@ title: creating a sustainable economy for the artists eco system
 subtitle: 'Marlon Solano, Jeanne Bloch, Stef Meul'
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Researchm
 date: '2021-12-05'
 seo:
   title: ''
