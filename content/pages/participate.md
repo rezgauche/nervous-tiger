@@ -40,7 +40,7 @@ sections:
     image: /images/rg3.jpg
   - section_id: shoplisting
     subtitle: |
-      join our economy of solidarity [read more](/posts/shoplisting)
+      join our economy of solidarity [*read more*](/posts/shoplisting)
     image_alt: thing01
     image: 'https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA'
     type: section_hero
