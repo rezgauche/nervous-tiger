@@ -33,7 +33,7 @@ tryout
 14h00 - 18h00
 
 14, 15 & 16 December
-11h00 - 23h00
+16h00 - 23h00
 
 **info and inscriptions**
 mail@rezgauche.be
