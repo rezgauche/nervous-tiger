@@ -1,11 +1,6 @@
 ---
 title: participate
 sections:
-  - title: participate
-    section_id: participate
-    image_alt: lorem-ipsum
-    type: section_content
-    image: /images/rgb-logo.png
   - title: opencollective
     section_id: opencollective
     subtitle: |
