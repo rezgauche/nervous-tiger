@@ -18,7 +18,7 @@ sections:
     image_alt: air2
     content: "\n*A.i.R*\_application happens by email to mail@rezgauche.be, and a talk through video chat if necessary.\n\nThe rezgauche.be\_*A.i.R*. selection criteria are based on:\n\n1.  complete application\n\n2.  inclusivity: how to make it possible?\n\n3.  time-space compatibility\n\n4.  available resources\n\n5.  desire for responsibility\n"
     type: section_content
-    image: /images/rg ws2.jpg
+    image: /images/rg2.jpg
   - title: air3
     section_id: air3
     image_alt: lorem-ipsum
