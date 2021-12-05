@@ -23,7 +23,7 @@ sections:
     image_alt: lorem-ipsum
     type: section_hero
   - section_id: lorem-ipsum
-    subtitle: |+
+    subtitle: |
       ### 2019
 
       *   11
@@ -58,13 +58,11 @@ sections:
 
       *   8 - 9
 
-          *   MotionDAO *research*
+          *   MotionDAO [*research*](https://www.dance-tech.net/profiles/blogs/crypto-in-motion-a-crypto-economy-for-dance-tech-creators)
 
       <!---->
 
       *   10 - 11
-
-          *   initiate seed funding round 1: founders
 
           *   build website version 2.0
 
@@ -85,6 +83,8 @@ sections:
       *   1 - 6
 
           *   apply for/gather funds for starting phase
+
+          *   initiate seed funding round 1: founders
 
           *   residencies, activities and events
 
@@ -163,7 +163,6 @@ sections:
           *   develop next roadmap
 
       ![](/images/rezgauche%20logo%20copy.png)
-
     image_alt: lorem-ipsum
     type: section_hero
 seo:
