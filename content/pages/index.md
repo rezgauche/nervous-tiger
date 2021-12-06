@@ -6,7 +6,6 @@ sections:
     image_alt: logo
     type: section_content
     content: |
-      ![](/images/rgb-logo.png)
       <a href="http://rezgauche.be/activities" rel="">![](/images/rgb-logo.png)</a>
 seo:
   title: rez gauche
