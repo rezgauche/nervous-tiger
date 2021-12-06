@@ -27,12 +27,12 @@ sections:
       ### 2020
 
       *   11
-          initial idea and desire for this experiment. *read article*
+          initial idea and desire for this experiment. [*read article*](/posts/debunking/)
 
       <!---->
 
       *   12
-          proposal for creating a sustainable economy for artist ecosystem. *read article*
+          proposal for creating a sustainable economy for artist ecosystem. [*read article*](/posts/creating-a-sustainable-economy-for-the-artists-eco-system/)
 
       ### 2021
 
