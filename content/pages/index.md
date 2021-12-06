@@ -5,6 +5,8 @@ sections:
     section_id: welcome
     image_alt: logo
     type: section_content
+    content: |
+      ![](/images/rgb-logo.png)
 seo:
   title: rez gauche
   description: artworks and more
