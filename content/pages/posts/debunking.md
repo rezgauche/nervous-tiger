@@ -27,6 +27,7 @@ My matter of concern is what are the sites of instituting (new) forms of sensing
 I guess there’s a hidden matter of concern - the “real” effects of my work, of one’s work, material effects perhaps. That would further point at the desire to grasp the causality at best, but let’s go for relation between immaterial and material. Material in this case is bodily experience, patterns of sensing and acting upon them. How can we speculate the future from our senses differently than under the dominance of visual perception?
 
 ##### HOW TO DIE IN A GOOD / WAY
+
 ## DEBUNKING THE MYTH #02
 
 HOW TO DIE IN A GOOD
@@ -55,6 +56,7 @@ nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnn
 Possibilities aaaaareeeee
 
 ##### Many teachers in the world are teaching at the same time
+
 ## DEBUNKING THE MYTH #03
 
 Many techers in the world are teching at the same time. Therefore it is difficult to hear. What is deep listening meaning to people practicing it<<<<<<<<<<<<<<<<<<<<<<<3 Love is an initiative. Or not? What is love ?                                                                                                                         Knowing the unknown is a possibility as well,
@@ -107,7 +109,9 @@ IT                                                    
 Many years ago, I had a conversation about how love is a plural being. Some of its limbs and organs can be named with words of friendship, family, romance, Walt Disney, or the terrifying feeling of falling and being devoured by one of its bodily openings. What does it mean to see this body of love not as a natural beast, but as a cyborg?
 
 ##### NON-DUAL (IN) DIFFERENCE
+
 ## DEBUNKING THE MYTH #04
+
 NON-DUAL (IN) DIFFERENCETo practice a non-dual stance for me is a pragmatic way out of the truth-game of critical exchange. Not so much to replace it, as to offer a wider ground of agonism on which we can still recognize the common ground beneath our concerns as speaking partners. To embrace the non-dual out of its spiritual context, however, often meets with the resistance of this being an escapist way out of the real, situated here and now. How to engage from a non-dual ground into situated practices and pay respect to what is? How not to seem in-different: not respecting identitary, economic, historical and other differences?  > is making visible the seams that weave together the indifferent patches of fabric enough?No one is with meROMANTIC DEATFSDFADSFSDFASDTGSLDHFKLKHJFLKJADFLGKNKA.SJZFNGK.JSFHNGIKsrNK.GSFVN.,MFDGS ,MSHDFN BW.KMBFNZDFKLVEEEEEEEEEEEEEEEEEEEEEEEEE
 
 TEXT image imagination arises emotionsI ewstegsdwasfhfjhmslklglsa 
@@ -117,7 +121,17 @@ MAR
 Nutritive.‘Hey You,’[Whatshadoing](https://vimeo.com/7315956)
 the non-dual\ gig attempt about - ‘Whatshadoing’ starts at 02:32.
 
-once within the non-dual frame , when there is not a specific correctness to be found or even rubric to formulate off of, how to be able to know, what you are doing(what the aim is, when the technology at use is radical acceptance?)##### COOPERATIVE## DEBUNKING THE MYTH #05COOPERATIVEI’m thinking about changing the way the workplace that has been established as a curated project, into a cooperative. My research about commons has brought me to a splace where I’d like to start an experiment with this workspace/gallery. I’m interested in sharing with persons that want to share the responsibilities, risks and benefits. At this moment I’m thinking about a modus operandi that can be summed up in:a person that needs to rent a space, can do so through my Smartbe.be activity. In that sense I can invoice the organisation/person and with that budget create artistic employment for myself and participants when doing artistic work. This means in practice that most persons that I know, are not able to provide for such a space, because to arrive at a minimum 35,23 euro netto salary that only covers the costs and rent of the space, an invoice of 84,18\* euro inclusive 21% tax and 6,5% administration costs has to be made per day for using such a space. [(source)](https://docs.google.com/presentation/d/1pnObtI5n9FnKrIer7jNJn2qWnd1QMKYp5Na4TH2VI-s/edit?usp=sharing)
+once within the non-dual frame , when there is not a specific correctness to be found or even rubric to formulate off of, how to be able to know, what you are doing(what the aim is, when the technology at use is radical acceptance?)
+
+
+
+##### COOPERATIVE
+
+## DEBUNKING THE MYTH #05
+
+COOPERATIVE
+
+I’m thinking about changing the way the workplace that has been established as a curated project, into a cooperative. My research about commons has brought me to a splace where I’d like to start an experiment with this workspace/gallery. I’m interested in sharing with persons that want to share the responsibilities, risks and benefits. At this moment I’m thinking about a modus operandi that can be summed up in:a person that needs to rent a space, can do so through my Smartbe.be activity. In that sense I can invoice the organisation/person and with that budget create artistic employment for myself and participants when doing artistic work. This means in practice that most persons that I know, are not able to provide for such a space, because to arrive at a minimum 35,23 euro netto salary that only covers the costs and rent of the space, an invoice of 84,18\* euro inclusive 21% tax and 6,5% administration costs has to be made per day for using such a space. [(source)](https://docs.google.com/presentation/d/1pnObtI5n9FnKrIer7jNJn2qWnd1QMKYp5Na4TH2VI-s/edit?usp=sharing)
 
 [](https://docs.google.com/presentation/d/1pnObtI5n9FnKrIer7jNJn2qWnd1QMKYp5Na4TH2VI-s/edit?usp=sharing)connecting with a decentralised autonomous organisation. Organising the space through ethereum based Smart contracts and interacting with the [Motion token ](https://app.tryroll.com/token/MOTION)developed by Marlon Barrios Solano from [dance-tech.net](http://www.dance-tech.net/). This would in practice mean that the gallery space develops a contract that can be exchanged. A clear convention regarding liabilities and regulations regarding the rental contract and utility bills, and all other terms and conditions related to access, use and care of the space and its communal areas, need to be included in the protocol of providing a non-curated, non-commercial, non-institutional, common workspace for artistic research and presentation on a distributed ledger through a ethereum based smart contract.
 
@@ -128,16 +142,22 @@ project site: [transdisciplinary.art](https://www.transdisciplinary.art/)
 concept in development (working) title cooperative space:  rezgauche
 
 ##### Where is the opening for love inside this work?
+
 ## DEBUNKING THE MYTH #06
+
 Where is the opening for love inside this work? How does this work make openings for love?love is uneasylove is uneasylove is uneasylife is lovelife is lovelove is uneasylife is lovelive is uneasylove lovelifelifelove lovelifelifelovelovelifelifelove lovelifelifelovelovelifelovelifeloveand lifelo[The crisis of love](https://www.youtube.com/watch?v=-u9eyImD3i4)<<<<<<<3<<<<<3<<3I remember when people did hearts with numbers :)<3 every part of their keyboard transformed themselves into an emotion of erotic, affectionate participation corresponding to a matter of concern that were sharing together (and corners? :))}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
 
 ##### HOW TO DIE IN A GOOD WAY? (HOW TO LIVE IN A GOOD WAY)
+
 ## DEBUNKING THE MYTH #07
+
 HOW TO DIE IN A GOOD WAY? (HOW TO LIVE IN A GOOD WAY)It seems that, if driven to its radical potential, non-duality could have the ability to make one rather fearless? I say that, because inside of non dual is of course non attachment, and a person without attachments is one who has nothing to fear, in a sense they are already dead, fully alive, however we might see it.To me there exists something juicy here, that is how to die in a good way? I’m curious somehow of how the context of artistic research can be a container to explore death within, or if it can be a place to do this in? I see many valuable offerings it could have-once dead , it's possible to talk to ghosts, why talk to ghosts? Because maybe they have something to say.-given that the planet is going through the 6th extinction perhaps research is needed on what it is to die, what it is like to die, and how to do so in a good way? There are many people who’ve done this research before of course, during the aids crisis, during the many apocalypse that different sects of humans have undergone. Perhaps this tactic or technology of non-dualism can be a mode of this research. But once within the non-dual frame , when there is not a specific correct answer to be found or even rubric to formulate off of, how to be able to know, what you are doing(what the aim is when the technology at use is radical acceptance?) …
 [Listen to homebound closing time with Stephen Jenkinson](https://forthewild.world/listen/homebound-closing-time-with-stephen-jenkinson-199)-once dead, there is an embedded “freedom”(connectedness) , the choice to do, to choose, what moves (you)through you, perhaps. If i'm thinking of an artist as a muse, a vessel, a portal, a potential for a device for divine, whether the divine is foucault or the divine feminine (perhaps they one and the same anyhow), then within death is perhaps located the ability to fully commit, to be fully present. I also feel here a connection to the latour text, as he spoke about types of critique- people projecting fake meaning into what they are doing, people being simply vessels to be moved by a larger force unbeknownst to them. In death there could exist a third option, although i'm unsure of how it could be called. A dance between it all stories being fake and then allowing the fakeness to guide real material actions that we both could predict the consequences of and also not.
 
 ##### Sorry for rambling
+
 ## DEBUNKING THE MYTH #08
+
 Sorry for rambling
 One of my favorite James Baldwin quotes
 “..because only an artist can tell, and only artists have told since we have heard of man, what it is like for anyone who gets to this planet to survive it. What it is like to die, or to have somebody die; what it is like to be glad. Hymns don’t do this, churches really cannot do it. The trouble is that although the artist can do it, the price that he has to pay himself and that you, the audience, must also pay, is a willingness to give up everything, to realize that although you spent twenty-seven years acquiring this house, this furniture, this position, although you spent forty years raising this child, these children, nothing, none of it belongs to you. You can only have it by letting it go. You can only take if you are prepared to give, and giving is not an investment. It is not a day at the bargain counter. It is a total risk of everything, of you and who you think you are, who you think you’d like to be, where you think you’d like to go — everything, and this forever, forever.”
@@ -148,7 +168,9 @@ One of my favorite James Baldwin quotes
 English Subtitles and being useful / spoilt / working with state funding from a government that doesn’t want you / artists changing the world - audience / feeling alienated as an artist / the desire to justify your work]Why are there two introductions to the Science of Logic? Freud wasn’t yet born. But a frog defecates in a pond, twice, in an era before the written language.“I say that, because inside of non dual is of course non attachment,”I’d say non-dual is not judging the attachment or trying not to, there’s an intent there, but paced, tamed perhaps, so the attempt itself does not turn into doubling down on the original attachment.(((Thinking on the beauty of a spider’s web)))
 
 ##### Alienation from self?, heritage, belonging and connection
+
 ## DEBUNKING THE MYTH #09
+
 *Alienation from self?, heritage, belonging and connection*I am concerned with the harnesses I and others built to make life under current systems livable. And how - after some time - these harnesses don’t easily get acknowledged by people wearing them and become some kind of second patch-worked skin of stimulus that guides us.I’m thinking of my grandfather who’s dying and my father who can’t talk about it. ⇒ protecting from hurt, emotional concernI’m thinking about the huge amount of pesticides my grandfather and many other farmers have been exposed to and him not considering to stop using it. ⇒ protecting a family, ecological and health concernIn my research I’m thinking of ritualistic places where harnesses can be revealed or put aside by some sort of witchcraft. What do these places look like and how do they function? Are they safe, or is it important that they are unsafe? In which different way can this witchcraft work, other than shaming and blaming like catholicism did?Witchcraft is becoming a harness too. “Safe” sounds like a category of predictability - can we assure that nothing we don’t want to be accountable for will happen? Are all these, harness (I assume criticality and discourse is meant by it), witchcraft, catholicism devices for preserving an imagined order or are they, can they be in function of catalysing a change of the order?
 
 *   Where does one encounter contemporary space-times of liminality?
@@ -156,7 +178,8 @@ English Subtitles and being useful / spoilt / working with state funding from a 
 *   When we go underground? Or maybe at the crossroads. When I dance. In the airport. On a long bus ride. At 4 am.
 
 *   What is the harness of witchcraft?What does a space goblin, a zombie and a vampire have in common? Think of the goblin guarding the inside, afraid of losing the preciousness of an inner world. The zombie cares more for the beverage than the person on the date. The vampire shrivels at the thought of a regular day job, and above all craves for love to replenish the hole where once was its unbroken heart.They don’t exist in a scientific worldview. They belong to an imagined order, which nonetheless functions similar to a scientific worldview.In the Roman empire the children were considered the property of the parents.
-Can I desire beyond the dual drive for being a protector of the child or of freeing a wild being appealing to a greater being to guide its unruliness?The voice in the back of the head  --- (where my demon appeared to be situated) mine too...in the right ear more or less actuallyIn my practice I have the tendency to follow a certain direction, path, themes and way of working for an extended period of time and when I think I know this direction and feel like I might  identify myself too much with the work or others identify me with it too much, I pull the break in order to forcefully pull myself out of a workflow to become aware of my way of working. This very much has to do with a voice in the back of my head which is critical towards choices I make and I wonder if this voice in the back of my head is not overdetermined with “political correctness” and norms that the cultural field inherently and sometimes silently puts over work. So I seem to pull a break to free myself from choices I made myself and lead others maybe astray? But the braking is a violent act leaving me practice-less for a period of time and kind of in limbo. Which is something not necessarily negative for an artist but does not feel comfortable either. So how can you free work from critique either a projected one or from oneself, without being uncritical toward work and oneself?
+    Can I desire beyond the dual drive for being a protector of the child or of freeing a wild being appealing to a greater being to guide its unruliness?The voice in the back of the head  --- (where my demon appeared to be situated) mine too...in the right ear more or less actuallyIn my practice I have the tendency to follow a certain direction, path, themes and way of working for an extended period of time and when I think I know this direction and feel like I might  identify myself too much with the work or others identify me with it too much, I pull the break in order to forcefully pull myself out of a workflow to become aware of my way of working. This very much has to do with a voice in the back of my head which is critical towards choices I make and I wonder if this voice in the back of my head is not overdetermined with “political correctness” and norms that the cultural field inherently and sometimes silently puts over work. So I seem to pull a break to free myself from choices I made myself and lead others maybe astray? But the braking is a violent act leaving me practice-less for a period of time and kind of in limbo. Which is something not necessarily negative for an artist but does not feel comfortable either. So how can you free work from critique either a projected one or from oneself, without being uncritical toward work and oneself?
+
 *   What happens along the way - Where do you end up when you continue moving in said direction, even after realising it is ‘the wrong way’?
 
 *   How do you perceive the surroundings along the route then? - Will you start moving differently, without having changed your ‘way’?
@@ -164,13 +187,16 @@ Can I desire beyond the dual drive for being a protector of the child or of free
 *   Is this possible without fear/danger?...no lo dejes apagar.
 
 ##### INTIMATE VERSUS PERSONAL
+
 ## DEBUNKING THE MYTH #10
 
 INTIMATE VERSUS PERSONAL
 There is something impossible in this confrontation. The two terms point at completely different regimes to inhabit the very moment of decision taking.Playing the game of etymology goes very revealing.“Personal” comes from the persona as  the actor’s mask character in a play. A person can only show in a theater. A referential frame that keeps us oriented by a specific value system. A regime of representation. A regime of anticipation (debt)If, by the other side, we look at “intimate”, we can see the “in-” doesn’t work as the opposite of out (in-and-out), but as “inter”: what is in between, among,  if we don’t want to reduce the complexity of this “in-”.When the noun becomes a verb, ….when we intimate, when we share intimacy with, we’re sharing the in between, sharing an affect,  we are among.Is there Oxana’s soul as a passage?A short of catch me if you can. You will never take me on stage.A regime of immanence. A regime of spontaneity.How do the two regimes deal with each other?What’s the cat-and mouse play?Not enough is enough.Fuego! ….no lo dejes apagar.[source](https://youtu.be/MZXlgNMDK3E)
 
 ##### V ersus: from a medieval Latin use of Latin versus ‘towards’\ I ntimate: from late Latin intimatus, past participle of Latin intimare ‘impress, make familiar’\ P ersonal: from Latin persona ‘actor's mask, character in a play’
+
 ## DEBUNKING THE MYTH #11
+
 V ersus: from a medieval Latin use of Latin versus ‘towards’
 
 I ntimate: from late Latin intimatus, past participle of Latin intimare ‘impress, make familiar’
