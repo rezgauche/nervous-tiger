@@ -6,12 +6,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "about",
-                "url": "/about",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "activities",
                 "url": "/activities",
                 "new_window": false,
@@ -26,6 +20,12 @@
             {
                 "label": "contact",
                 "url": "/contact"
+            },
+            {
+                "label": "about",
+                "url": "/about",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },
