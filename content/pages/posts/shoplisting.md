@@ -20,9 +20,11 @@ Artists decide which tier they connect to their artwork and receive 80% of a don
 
 The artists can mint artwork in [*our nft store on mintbase*](https://www.mintbase.io/store/rezgauche.mintbase1.near)
 
-80% and 9% royalties for artist
-17,5% and 1% royalties for rezgauche DAO
-2,5% mintbase.io fees
+80% and 9% royalties for artist.
+
+17,5% and 1% royalties for rezgauche DAO.
+
+2,5% mintbase.io fees.
 
 Contact mail@rezgauche.be if you would like to add your work to shoplisting and mint digital art in our nft factory.
 
