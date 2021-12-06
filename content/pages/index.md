@@ -7,7 +7,7 @@ sections:
     type: section_content
     content: |
       ![](/images/rgb-logo.png)
-      <a href="http://rezgauche.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+      <a href="http://rezgauche.be.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 seo:
   title: rez gauche
   description: artworks and more
