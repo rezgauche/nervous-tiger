@@ -40,7 +40,7 @@ sections:
       V.A.T. BE 0896.755.397
 
 
-      [opencollective.com/brussels](https://opencollective.com/brussels)
+      [opencollective.com/europe](https://opencollective.com/europe)
 
 
       #####
