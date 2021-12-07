@@ -1,8 +1,8 @@
 ---
-title: Just a Generic Page
+title: Just a new Page
 subtitle: Just a generic subtitle for the page
 seo:
-  title: Just a Generic Page
+  title: Just a new Page
   description: This is a generic page
   extra:
     - name: 'og:type'
