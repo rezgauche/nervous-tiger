@@ -1,6 +1,6 @@
 ---
 title: performance evening
-subtitle: ' Stef Meul - "experiment 0x01"  Lea Rüegg'
+subtitle: ' Stef Meul -  Lea Rüegg'
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: '001'
