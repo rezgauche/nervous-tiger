@@ -11,6 +11,7 @@ seo:
   extra: []
 layout: post
 subtitle: i want to drool on you
+thumb_img_path: /images/unbecoming-wellness (1).jpg
 ---
 rez gauche presents this small solo show of sculptures and one video by Zachary Schoenhut with performances by Anastasia Mccammon and Francesca Hawker for the opening night.
 
