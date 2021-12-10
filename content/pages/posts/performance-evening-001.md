@@ -11,7 +11,6 @@ seo:
   robots: []
   extra: []
 layout: post
-content_img_path: /images/rg performance.png
 thumb_img_path: /images/rg performance.png
 ---
 “Assuming negativity” is an experiment that aims to question the possibility of the subject/artist provoking a glimpse of their own negativity through a state of increasingly manipulated positivization and objectification.
