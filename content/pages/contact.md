@@ -6,7 +6,7 @@ sections:
       *contact*
 
 
-      [mail@rezgauche.be](https://preview--rez-gauche-be-6a397.stackbit.dev/mailto:mail@rezgauche.be)
+      [mail@rezgauche.be](mailto:mail@rezgauche.be)
 
 
       \+32 488 367 723
