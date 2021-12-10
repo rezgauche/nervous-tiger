@@ -28,7 +28,7 @@ sections:
       join our *decentralised autonomous organisation*
 
 
-      [*rezgauche.sputnik-dao.near*](https://app.astrodao.com/dao/rezgauche.sputnik-dao.near)
+      [*rezgauche.sputnik-dao.near*](https://app.astrodao.com/dao/rezgauche.sputnik-dao.near?status=all)
     image_alt: dao
     type: section_hero
     image: /images/rg-dao.png
