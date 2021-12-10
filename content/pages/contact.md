@@ -6,7 +6,7 @@ sections:
       *contact*
 
 
-      <mail@rezgauche.be
+      <mail@rezgauche.be]
 
 
       \+32 488 367 723
