@@ -4,20 +4,9 @@ sections:
   - section_id: contact
     subtitle: >
       *contact*
-image_alt: logo
-type: section_hero
-image: /images/rezgauche logo copy.png
-seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
-layout: advanced
----
 
 
-
-      [mail@rezgauche.be](mailto:mail@rezgauche.be)
+      <mail@rezgauche.be>
 
 
       \+32 488 367 723
@@ -51,7 +40,17 @@ layout: advanced
       V.A.T. BE 0896.755.397
 
 
-      [opencollective.com/europe](https://opencollective.com/europe)
+      [opencollective.com/brussels](https://opencollective.com/brussels)
 
 
       #####
+    image_alt: logo
+    type: section_hero
+    image: /images/rezgauche logo copy.png
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+layout: advanced
+---
