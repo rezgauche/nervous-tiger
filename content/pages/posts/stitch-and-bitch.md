@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/stitch-and-bitch (1).jpg
 ---
 This past year during the pandemic, governance over bodies became a common and non-negotiable presence. Conversations surrounding dysfunctional state-governance, structural racism, and global wealth disparities became common, irrespective of class, sexuality, race, or gender expression. Giorgio Agamben speaks of the “whatever singularity” that occurs when a community of varying peoples, with no conditions of belonging, come together to be such that always matter.
 

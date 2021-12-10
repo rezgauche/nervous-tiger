@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/readinggroup (2).jpg
 ---
 On October 7th 2021, Rez Gauche will host *a reading group* in a new hybrid online/in-person format.
 

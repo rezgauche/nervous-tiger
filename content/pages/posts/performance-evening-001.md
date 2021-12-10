@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/rg performance.png
 ---
 “Assuming negativity” is an experiment that aims to question the possibility of the subject/artist provoking a glimpse of their own negativity through a state of increasingly manipulated positivization and objectification.
 Inspired by Byung-Chul Hun’s book “The Agony of Eros” and his criticism on the neo-liberal contemporary society where he argues beyond the Hegelian dialectic of Master and Slave he draws the contemporary subject as a unit that embodies both.

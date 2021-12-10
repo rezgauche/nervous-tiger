@@ -4,6 +4,17 @@ sections:
   - section_id: contact
     subtitle: >
       *contact*
+image_alt: logo
+type: section_hero
+image: /images/rezgauche logo copy.png
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+layout: advanced
+---
+
 
 
       [mail@rezgauche.be](mailto:mail@rezgauche.be)
@@ -44,13 +55,3 @@ sections:
 
 
       #####
-    image_alt: logo
-    type: section_hero
-    image: /images/rezgauche logo copy.png
-seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
-layout: advanced
----

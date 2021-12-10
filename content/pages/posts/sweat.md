@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/sweat.jpg
 ---
 *Softly We Entered Another Truth* is rethinking work through practice. It wants to put into question the value of the body: its products, services and experiences.
 
