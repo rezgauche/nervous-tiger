@@ -11,7 +11,6 @@ seo:
   robots: []
   extra: []
 layout: post
-content_img_path: 'https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA'
 thumb_img_path: 'https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA'
 ---
 *rezgauche.be* proposes a situation where artists can present their work and benefit from donations made through the opencollective.
