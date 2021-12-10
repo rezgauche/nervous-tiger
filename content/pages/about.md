@@ -19,7 +19,9 @@ sections:
     type: section_content
     image: /images/rg1.jpg
   - section_id: numbers
-    subtitle: "*rezgauche.be* initiates a transition from a curated art gallery into a decentralised organisation.\n\nFor its realisation *rezgauche.be*\_follows a fourfold path:\n\n1.  Work with a Smartbe Activity for durable artistic employment.\n\n2.  Start a cooperative practice to fund and share responsibility.\n\n3.  Make a DAO for governance by the participants.\n\n4.  Develop the gallery/atelier through Web3.\n\n*rezgauche.be*\_openly accounts for developing its: location, employment, materials.\n\n*   starting phase\n\nestimated *annual location costs: 8646 €*\n\n*   development phase\n\n8 weeks of Activities, employing 29 artists: 43096 €\n\n36 weeks of Artist In Residence, employing on average 22 artists: 74 882 €\n\n8 weeks of undefined, other projects, maintenance days, etc: 1336 €\n\n*estimated total annual costs:\_119 314 €*\n\nview our [*numbers*](/numbers)\n"
+    subtitle: "*rezgauche.be* initiates a transition from a curated art gallery into a decentralised organisation.\n\n 
+    ## For its realisation *rezgauche.be*\_follows a fourfold path
+    \n\n1.  Work with a Smartbe Activity for durable artistic employment.\n\n2.  Start a cooperative practice to fund and share responsibility.\n\n3.  Make a DAO for governance by the participants.\n\n4.  Develop the gallery/atelier through Web3.\n\n*rezgauche.be*\_openly accounts for developing its: location, employment, materials.\n\n*   starting phase\n\nestimated *annual location costs: 8646 €*\n\n*   development phase\n\n8 weeks of Activities, employing 29 artists: 43096 €\n\n36 weeks of Artist In Residence, employing on average 22 artists: 74 882 €\n\n8 weeks of undefined, other projects, maintenance days, etc: 1336 €\n\n*estimated total annual costs:\_119 314 €*\n\nview our [*numbers*](/numbers)\n"
     image_alt: lorem-ipsum
     type: section_hero
   - section_id: roadmap

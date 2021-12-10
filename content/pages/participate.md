@@ -4,7 +4,7 @@ sections:
   - title: opencollective
     section_id: opencollective
     subtitle: |
-      *make it possible to realise our roadmap and activities*
+      *fund, sponsor and donate*
 
       [*opencollective.com/rezgauche*](https://opencollective.com/rezgauche)
     image_alt: logo-oc
@@ -25,8 +25,7 @@ sections:
   - title: astrodao
     section_id: dao
     subtitle: >
-      join our decentralised autonomous organisation and *vote on what you want
-      to happen.*
+      join our *decentralised autonomous organisation*
 
 
       [*rezgauche.sputnik-dao.near*](https://app.astrodao.com/dao/rezgauche.sputnik-dao.near?status=all)
