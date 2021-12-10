@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: post
 content_img_path: /images/rg performance.png
+thumb_img_path: /images/rg performance.png
 ---
 Stef Meul - "experiment 0x01"
 
