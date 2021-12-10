@@ -11,8 +11,8 @@ seo:
   robots: []
   extra: []
 layout: post
-content_img_path: /images/fav.png
-thumb_img_path: /images/fav.png
+content_img_path: https://arweave.net/xRRkxSjwCA5Xs6JE3dFIFgoiJhmcfZ8ks98iU1pogUU
+thumb_img_path: https://arweave.net/xRRkxSjwCA5Xs6JE3dFIFgoiJhmcfZ8ks98iU1pogUU
 ---
 
 
