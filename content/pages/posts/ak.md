@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: post
 content_img_path: /images/fav.png
+thumb_img_path: /images/fav.png
 ---
 
 
