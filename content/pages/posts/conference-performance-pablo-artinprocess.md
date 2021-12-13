@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/pablo-conf.jpg
 ---
 ·         A lot of what is written about performance concerns performance in general (as in performing arts) and not performance art in particular.
 
