@@ -28,6 +28,10 @@ thumb_img_path: /images/pablo-conf.jpg
 
 ·         On the 22nd of December we start unfolding a new pamphlet which is post-“all these things” and draws people’s attention to some interesting sources for reflecting more carefully about what performance art is. None of this is really new, but for some reason those sources seem to remain largely overlooked. We will dedicate particular attention to Kati Röttger and Emmanuel Levinas.
 
+
+
+Starts at 7pm
+
 Duration: 90 minutes, but could be more, could be less
 
 In English
