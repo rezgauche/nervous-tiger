@@ -3,7 +3,6 @@ title: A New (Levinasian-Röttgerian) Theory of Performance Art
 subtitle: A conference-performance by Pablo Alvez Artinprocess
 content_img_alt: pablo-art
 thumb_img_alt: pablo
-excerpt: lorem-ipsum
 date: '2021-12-13'
 seo:
   title: ''
