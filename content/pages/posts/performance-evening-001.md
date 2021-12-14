@@ -1,8 +1,8 @@
 ---
 title: performance evening
 subtitle: '002'
-content_img_alt: lorem-ipsum
-thumb_img_alt: lorem-ipsum
+content_img_alt: Marivi-Gazeta
+thumb_img_alt: Marivi-Gazeta
 excerpt: Marivi Gazeta
 date: '2021-11-12'
 seo:
@@ -11,7 +11,9 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: /images/rg performance.png
+content_img_path: https://arweave.net/_6gQ__tser200Mm8jLooQz_4QIlKHADDZrNaBDfwYXM
+thumb_img_path: https://arweave.net/_6gQ__tser200Mm8jLooQz_4QIlKHADDZrNaBDfwYXM
+
 ---
 “Assuming negativity” is an experiment that aims to question the possibility of the subject/artist provoking a glimpse of their own negativity through a state of increasingly manipulated positivization and objectification.
 Inspired by Byung-Chul Hun’s book “The Agony of Eros” and his criticism on the neo-liberal contemporary society where he argues beyond the Hegelian dialectic of Master and Slave he draws the contemporary subject as a unit that embodies both.
