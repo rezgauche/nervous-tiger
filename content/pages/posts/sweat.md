@@ -2,7 +2,7 @@
 title: sweat
 subtitle: softly we entered another truth
 content_img_alt: lorem-ipsum
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: unsplash.com/@profelis_aurata
 excerpt: an experimental practice of a life beyond capitalist consumer culture
 date: '2021-12-14'
 seo:
@@ -11,7 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: /images/sweat.jpg
+thumb_img_path: https://images.unsplash.com/photo-1532930091607-cc3d39a4f35f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 *Softly We Entered Another Truth* is rethinking work through practice. It wants to put into question the value of the body: its products, services and experiences.
 
