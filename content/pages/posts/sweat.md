@@ -1,7 +1,7 @@
 ---
 title: sweat
 subtitle: softly we entered another truth
-content_img_alt: lorem-ipsum
+content_img_alt: ''
 thumb_img_alt: unsplash.com/@profelis_aurata
 excerpt: an experimental practice of a life beyond capitalist consumer culture
 date: '2021-12-14'
@@ -20,6 +20,13 @@ thumb_img_path: https://images.unsplash.com/photo-1532930091607-cc3d39a4f35f?ixl
 *rez gauche* invites you - artists, researchers, makers, performers, etc - to experiment with our research process in an informal, professional, post-work society. Frequency and format of presentation is following the artistic process. Resources, benefits, risks and responsibilities are shared.
 
 *Softly We Entered Another Truth* functions as an experimental practice of a life beyond capitalist consumer culture and engages participants through displacement into artistic practice, love and care.
+
+In December's edition of softly we entered another truth
+you can join these research practices:
+- mantra's and other linguistic practice
+and reading and reflections on
+- Mari Ruti - The Ethics of Opting Out_ Queer Theory’s Defiant Subjects
+- Mark S.G. Dyczkowski - The Doctrine of Vibration_ An Analysis of the Doctrines and Practices of Kashmir Shaivism
 
 
 ##### dates, times 2021
