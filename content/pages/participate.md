@@ -28,10 +28,10 @@ sections:
       join our *decentralised autonomous organisation*
 
 
-      [*rezgauche.sputnik-dao.near*](https://app.astrodao.com/dao/rez-gauche.sputnik-dao.near?status=all)
+      [*rez-gauche.sputnik-dao.near*](https://app.astrodao.com/dao/rez-gauche.sputnik-dao.near?status=all)
     image_alt: dao
     type: section_hero
-    image: /images/rg-dao.png
+    image: /images/r-g-dao.png
   - section_id: shoplisting
     subtitle: |
       join our economy of solidarity [*read more*](/posts/shoplisting)
