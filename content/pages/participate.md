@@ -25,7 +25,7 @@ sections:
   - title: astrodao
     section_id: dao
     subtitle: >
-      organise rezgauche.be through participating in our *decentralised autonomous organisation*
+      participate in our decentralised autonomous organisation
 
 
       [*rez-gauche.sputnik-dao.near*](https://app.astrodao.com/dao/rez-gauche.sputnik-dao.near?status=all)
