@@ -30,31 +30,14 @@
         ]
     },
     "footer": {
-        "content": "<a href=\"https://rezgauche.be\">rez gauche    </a>",
+        "content": "<a href=\"https://rezgauche.be\">rez gauche    </a>", 
+                   "<a href=\"https://rezgauche.be/activities\">activities    </a>", 
+                   "<a href=\"https://rezgauche.be/participate\">participate    </a>", 
+                   "<a href=\"https://rezgauche.be/contact\">contact    </a>", 
+                   "<a href=\"https://rezgauche.be/about\">about    </a>", 
+         
         "has_social": true,
         "social_links": [
-             {
-                "label": "activities",
-                "url": "/activities",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "participate",
-                "url": "/participate",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "contact",
-                "url": "/contact"
-            },
-            {
-                "label": "about",
-                "url": "/about",
-                "new_window": false,
-                "no_follow": false
-            }
             {
                 "label": "instagram",
                 "url": "https://www.instagram.com/rezgauche",
