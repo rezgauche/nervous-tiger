@@ -27,12 +27,12 @@ excerpt: A conference-performance by Pablo Alvez Artinprocess
 
 ![](/images/pablo-conf.jpg)
 
-·         On the 22nd of December we start unfolding a new pamphlet which is post-“all these things” and draws people’s attention to some interesting sources for reflecting more carefully about what performance art is. None of this is really new, but for some reason those sources seem to remain largely overlooked. We will dedicate particular attention to Kati Röttger and Emmanuel Levinas.
+·         On the 22nd of December we started unfolding a new pamphlet which is post-“all these things” and draws people’s attention to some interesting sources for reflecting more carefully about what performance art is. None of this is really new, but for some reason those sources seem to remain largely overlooked. We will dedicate particular attention to Kati Röttger and Emmanuel Levinas.
 
+[See the video](https://www.youtube.com/watch?v=Y9Uo7h1N-b0) of the conference.
 
+Text references:
 
-Starts at 7pm
-
-Duration: 90 minutes, but could be more, could be less
-
-In English
+·         Levinas[Totalité et Infini](https://monoskop.org/images/5/56/Levinas_Emmanuel_Totalit%C3%A9_et_infini_essai_sur_l_ext%C3%A9riorit%C3%A9_2000.pdf)
+·         Röttger [The mystery of the in-between](https://gateway.pinata.cloud/ipfs/QmeDFhjxrfnGQkaMJw2Jz5mNxprzaEHC2fjrwk8zneeuS8?preview=1)
+---
