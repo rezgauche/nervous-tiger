@@ -11,6 +11,9 @@ seo:
   robots: []
   extra: []
 layout: post
+content_img_path: /images/discodao.jpeg
+thumb_img_path: /images/discodao.jpeg
+
 ---
 *A.R.* is an open space for engaging with the research process of the participants.
 
