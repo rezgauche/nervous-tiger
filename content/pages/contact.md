@@ -40,7 +40,7 @@ sections:
       V.A.T. BE 0896.755.397
 
 
-      [opencollective.com/europe](https://opencollective.com/europe)
+      [opencollective.com/rezgauche](https://opencollective.com/rezgauche)
 
 
       #####
